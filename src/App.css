@@ -1,7 +1,14 @@
+body {
+  background-color: rgb(31, 31, 31);
+}
+
 .DiaryEditor {
-  border: 1px solid gray;
+  border-bottom: 4px solid #fff;
   text-align: center;
   padding: 20px;
+  color: #fff;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .DiaryEditor input,
@@ -9,6 +16,7 @@ textarea {
   margin-bottom: 20px;
   width: 500px;
   padding: 10px;
+  background-color: #fff;
 }
 
 .DiaryEditor textarea {
@@ -30,7 +38,7 @@ textarea {
 /* list */
 
 .DiaryList {
-  border: 1px solid gray;
+  border: 1px solid #fff;
   padding: 20px;
   margin: 20px auto;
   width: 500px;
@@ -38,6 +46,11 @@ textarea {
 
 .DiaryList h2 {
   text-align: center;
+  color: #fff;
+}
+
+.DiaryList h4 {
+  color: #fff;
 }
 
 /* list item */
@@ -50,13 +63,13 @@ textarea {
 }
 
 .DiaryItem .info {
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid #fff;
   padding-bottom: 10px;
   margin-bottom: 10px;
 }
 
 .DiaryItem .date {
-  color: gray;
+  color: #000;
 }
 
 .DiaryItem .content {
