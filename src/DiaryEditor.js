@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React, { useRef, useEffect, useState } from "react";
 
 const DiaryEditor = ({ onCreate }) => {
   const authorInput = useRef();
