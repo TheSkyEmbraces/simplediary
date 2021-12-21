@@ -7,4 +7,10 @@ simplediary
 - 오픈 API를 이용하여 정보 가져와서 일기리스트에 집어넣음.
 - 프로젝트 최적화를 하고있음.
 
+2021-12-20
+
+- 최적화 완료
+
+* 완성!
+
 # https://theskyembraces.github.io/simplediary/
