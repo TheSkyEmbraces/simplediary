@@ -4,11 +4,10 @@ body {
 }
 
 .DiaryEditor {
-  border-bottom: 4px solid #000;
+  border-bottom: 3px solid rgb(110, 110, 110);
   padding: 20px;
   color: #000;
-  width: 80%;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
 .DiaryEditor input,
